@@ -3,7 +3,7 @@
 ![Dashboard](https://github.com/Prabhsingh0401/BOB-Hackathon/assets/130837233/b88a9255-b5bb-41d1-b99e-2df3acc03d4d)
 ![Personal Dashboard](https://github.com/Prabhsingh0401/BOB-Hackathon/assets/130837233/e80af82f-07c2-42bc-b5c7-094342fa4c0c)
 ![Chat Bot](https://github.com/Prabhsingh0401/BOB-Hackathon/assets/130837233/4de4b1f6-00b8-49c8-ad9e-ba8fda7247cb)
-![Predictor](https://github.com/Prabhsingh0401/BOB-Hackathon/assets/130837233/3ed00191-18da-4f9b-8398-607a19fca669)
+![Predictor](https://github.com/Prabhsingh0401/BOB-Hackathon/assets/130837233/9ff76d8b-ae75-423d-8e65-57ae59884838)
 
 # React + Vite
 
